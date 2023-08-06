@@ -9,5 +9,5 @@
 <title>Colegio Monteiro<title>
 </head>
         <body>
-<h1>          combos incriveis do BLOX FRUIS</h1>
+<h1>combos incriveis do BLOX FRUIS</h1>
   <h2> como fazer combos do jogo conceio basico de combos</h2>
