@@ -1,1 +1,13 @@
-# 1bmonteiro
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" href="reset.css">
+<link rel="stylesheet" href="styles.css">
+<title>Colegio Monteiro<title>
+</head>
+        <body>
+<h1>combos incriveis do BLOX FRUIS</h1>
+  <h2> como fazer combos do jogo conceio basico de combos</h2>
