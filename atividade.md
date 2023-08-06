@@ -11,3 +11,4 @@
         <body>
 <h1>combos incriveis do BLOX FRUIS</h1>
   <h2>  como fazer combos do jogo conceito basico de combos</h2>
+<img>![bloxfruis jpeg](https://github.com/kally91919/1bmonteiro/assets/141460489/438a0e31-01f1-42b2-a7df-9aa269971a37)<img>
