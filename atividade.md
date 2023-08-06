@@ -10,4 +10,4 @@
 </head>
         <body>
 <h1>combos incriveis do BLOX FRUIS</h1>
-  <h2> como fazer combos do jogo conceito basico de combos</h2>
+  <h2>  como fazer combos do jogo conceito basico de combos</h2>
